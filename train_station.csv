@@ -1,0 +1,633 @@
+﻿Route,Stop_Name,Latitude,Longitude,,From_Stop,To_Stop,,,,Stop_Name
+Portlaoise - Dublin,Portlaoise ,53.036748,-7.301227,,Portlaoise ,Portarlington ,,,,Portlaoise 
+Portlaoise - Dublin,Portarlington ,53.14605,-7.180555,,Portarlington ,Monasterevin ,,,,Portarlington 
+Portlaoise - Dublin,Monasterevin ,53.145481,-7.063798,,Monasterevin ,Kildare ,,,,Monasterevin 
+Portlaoise - Dublin,Kildare ,53.162778,-6.907936,,Kildare ,Newbridge ,,,,Kildare 
+Portlaoise - Dublin,Newbridge ,53.185394,-6.808223,,Newbridge ,Sallins and Naas ,,,,Newbridge 
+Portlaoise - Dublin,Sallins and Naas ,53.247026,-6.664586,,Sallins and Naas ,Hazelhatch and Celbridge ,,,,Sallins and Naas 
+Portlaoise - Dublin,Hazelhatch and Celbridge ,53.323003,-6.523108,,Hazelhatch and Celbridge ,Adamstown ,,,,Hazelhatch and Celbridge 
+Portlaoise - Dublin,Adamstown ,53.336295,-6.46911,,Adamstown ,Clondalkin Fonthill ,,,,Adamstown 
+Portlaoise - Dublin,Clondalkin Fonthill ,53.33337,-6.406279,,Clondalkin Fonthill ,Park West and Cherry Orchard ,,,,Clondalkin Fonthill 
+Portlaoise - Dublin,Park West and Cherry Orchard ,53.334009,-6.37876,,Park West and Cherry Orchard ,Dublin Heuston ,,,,Park West and Cherry Orchard 
+Portlaoise - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,Dublin Heuston 
+,,,,,,,,,,Greystones 
+Dublin - Portlaoise,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Park West and Cherry Orchard ,,,,Bray (Daly) 
+Dublin - Portlaoise,Park West and Cherry Orchard ,53.334009,-6.37876,,Park West and Cherry Orchard ,Clondalkin Fonthill ,,,,Dun Laoghaire (Mallin) 
+Dublin - Portlaoise,Clondalkin Fonthill ,53.33337,-6.406279,,Clondalkin Fonthill ,Adamstown ,,,,Grand Canal Dock 
+Dublin - Portlaoise,Adamstown ,53.336295,-6.46911,,Adamstown ,Hazelhatch and Celbridge ,,,,Dublin Pearse 
+Dublin - Portlaoise,Hazelhatch and Celbridge ,53.323003,-6.523108,,Hazelhatch and Celbridge ,Sallins and Naas ,,,,Tara Street 
+Dublin - Portlaoise,Sallins and Naas ,53.247026,-6.664586,,Sallins and Naas ,Newbridge ,,,,Dublin Connolly 
+Dublin - Portlaoise,Newbridge ,53.185394,-6.808223,,Newbridge ,Kildare ,,,,Clontarf Road 
+Dublin - Portlaoise,Kildare ,53.162778,-6.907936,,Kildare ,Monasterevin ,,,,Killester 
+Dublin - Portlaoise,Monasterevin ,53.145481,-7.063798,,Monasterevin ,Portarlington ,,,,Harmonstown 
+Dublin - Portlaoise,Portarlington ,53.14605,-7.180555,,Portarlington ,Portlaoise ,,,,Raheny 
+Dublin - Portlaoise,Portlaoise ,53.036748,-7.301227,,,,,,,Kilbarrack 
+,,,,,,,,,,Howth Junction and Donaghmede 
+Greystones  - Howth,Greystones ,53.144026,-6.061128,,Greystones ,Bray (Daly) ,,,,Bayside 
+Greystones  - Howth,Bray (Daly) ,53.203712,-6.100194,,Bray (Daly) ,Dun Laoghaire (Mallin) ,,,,Sutton 
+Greystones  - Howth,Dun Laoghaire (Mallin) ,53.294776,-6.134575,,Dun Laoghaire (Mallin) ,Grand Canal Dock ,,,,Howth 
+Greystones  - Howth,Grand Canal Dock ,53.339446,-6.237351,,Grand Canal Dock ,Dublin Pearse ,,,,Malahide 
+Greystones  - Howth,Dublin Pearse ,53.343252,-6.248048,,Dublin Pearse ,Tara Street ,,,,Portmarnock 
+Greystones  - Howth,Tara Street ,53.347264,-6.254359,,Tara Street ,Dublin Connolly ,,,,Clongriffin 
+Greystones  - Howth,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Clontarf Road ,,,,Cork (Kent) 
+Greystones  - Howth,Clontarf Road ,53.363077,-6.226784,,Clontarf Road ,Killester ,,,,Mallow 
+Greystones  - Howth,Killester ,53.372884,-6.204046,,Killester ,Harmonstown ,,,,Charleville 
+Greystones  - Howth,Harmonstown ,53.378643,-6.19131,,Harmonstown ,Raheny ,,,,Limerick Junction 
+Greystones  - Howth,Raheny ,53.381423,-6.175818,,Raheny ,Kilbarrack ,,,,Thurles 
+Greystones  - Howth,Kilbarrack ,53.387472,-6.16089,,Kilbarrack ,Howth Junction and Donaghmede ,,,,Templemore 
+Greystones  - Howth,Howth Junction and Donaghmede ,53.391496,-6.155434,,Howth Junction and Donaghmede ,Bayside ,,,,Ballybrophy 
+Greystones  - Howth,Bayside ,53.391242,-6.136925,,Bayside ,Sutton ,,,,Drogheda (Macbride) 
+Greystones  - Howth,Sutton ,53.391905,-6.115952,,Sutton ,Howth ,,,,Dundalk (Clarke) 
+Greystones  - Howth,Howth ,53.388893,-6.074211,,,,,,,Newry 
+,,,,,,,,,,Portadown 
+Howth - Grand Canal Dock,Howth ,53.388893,-6.074211,,Howth ,Sutton ,,,,Belfast 
+Howth - Grand Canal Dock,Sutton ,53.391905,-6.115952,,Sutton ,Bayside ,,,,Tralee (Casement) 
+Howth - Grand Canal Dock,Bayside ,53.391242,-6.136925,,Bayside ,Howth Junction and Donaghmede ,,,,Farranfore 
+Howth - Grand Canal Dock,Howth Junction and Donaghmede ,53.391496,-6.155434,,Howth Junction and Donaghmede ,Kilbarrack ,,,,Killarney 
+Howth - Grand Canal Dock,Kilbarrack ,53.387472,-6.16089,,Kilbarrack ,Raheny ,,,,Rathmore 
+Howth - Grand Canal Dock,Raheny ,53.381423,-6.175818,,Raheny ,Harmonstown ,,,,Millstreet 
+Howth - Grand Canal Dock,Harmonstown ,53.378643,-6.19131,,Harmonstown ,Killester ,,,,Banteer 
+Howth - Grand Canal Dock,Killester ,53.372884,-6.204046,,Killester ,Clontarf Road ,,,,Limerick (Colbert) 
+Howth - Grand Canal Dock,Clontarf Road ,53.363077,-6.226784,,Clontarf Road ,Dublin Connolly ,,,,Galway (Ceannt) 
+Howth - Grand Canal Dock,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Tara Street ,,,,Oranmore 
+Howth - Grand Canal Dock,Tara Street ,53.347264,-6.254359,,Tara Street ,Dublin Pearse ,,,,Athenry 
+Howth - Grand Canal Dock,Dublin Pearse ,53.343252,-6.248048,,Dublin Pearse ,Grand Canal Dock ,,,,Craughwell 
+Howth - Grand Canal Dock,Grand Canal Dock ,53.339446,-6.237351,,,,,,,Ardrahan 
+,,,,,,,,,,Gort 
+Malahide -  Greystones,Malahide ,53.450686,-6.156293,,Malahide ,Portmarnock ,,,,Ennis 
+Malahide -  Greystones,Portmarnock ,53.418177,-6.151142,,Portmarnock ,Clongriffin ,,,,Waterford (Plunkett) 
+Malahide -  Greystones,Clongriffin ,53.402514,-6.149029,,Clongriffin ,Howth Junction and Donaghmede ,,,,Carrick-on-Suir 
+Malahide -  Greystones,Howth Junction and Donaghmede ,53.391496,-6.155434,,Howth Junction and Donaghmede ,Kilbarrack ,,,,Clonmel 
+Malahide -  Greystones,Kilbarrack ,53.387472,-6.16089,,Kilbarrack ,Raheny ,,,,Cahir 
+Malahide -  Greystones,Raheny ,53.381423,-6.175818,,Raheny ,Harmonstown ,,,,Tipperary 
+Malahide -  Greystones,Harmonstown ,53.378643,-6.19131,,Harmonstown ,Killester ,,,,Castleconnell 
+Malahide -  Greystones,Killester ,53.372884,-6.204046,,Killester ,Clontarf Road ,,,,Birdhill 
+Malahide -  Greystones,Clontarf Road ,53.363077,-6.226784,,Clontarf Road ,Dublin Connolly ,,,,Nenagh 
+Malahide -  Greystones,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Tara Street ,,,,Cloughjordan 
+Malahide -  Greystones,Tara Street ,53.347264,-6.254359,,Tara Street ,Dublin Pearse ,,,,Roscrea 
+Malahide -  Greystones,Dublin Pearse ,53.343252,-6.248048,,Dublin Pearse ,Grand Canal Dock ,,,,Carlow 
+Malahide -  Greystones,Grand Canal Dock ,53.339446,-6.237351,,Grand Canal Dock ,Dun Laoghaire (Mallin) ,,,,Athy 
+Malahide -  Greystones,Dun Laoghaire (Mallin) ,53.294776,-6.134575,,Dun Laoghaire (Mallin) ,Bray (Daly) ,,,,Thomastown 
+Malahide -  Greystones,Bray (Daly) ,53.203712,-6.100194,,Bray (Daly) ,Greystones ,,,,Kilkenny (Macdonagh) 
+Malahide -  Greystones,Greystones ,53.144026,-6.061128,,,,,,,Muine Bheag (Bagenalstown) 
+,,,,,,,,,,Rosslare Europort 
+Grand Canal Dock - Malahide,Grand Canal Dock ,53.339446,-6.237351,,Grand Canal Dock ,Dublin Pearse ,,,,Rosslare Strand 
+Grand Canal Dock - Malahide,Dublin Pearse ,53.343252,-6.248048,,Dublin Pearse ,Tara Street ,,,,Wexford (O Hanrahan) 
+Grand Canal Dock - Malahide,Tara Street ,53.347264,-6.254359,,Tara Street ,Dublin Connolly ,,,,Enniscorthy 
+Grand Canal Dock - Malahide,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Clontarf Road ,,,,Gorey 
+Grand Canal Dock - Malahide,Clontarf Road ,53.363077,-6.226784,,Clontarf Road ,Killester ,,,,Arklow 
+Grand Canal Dock - Malahide,Killester ,53.372884,-6.204046,,Killester ,Harmonstown ,,,,Rathdrum 
+Grand Canal Dock - Malahide,Harmonstown ,53.378643,-6.19131,,Harmonstown ,Raheny ,,,,Wicklow 
+Grand Canal Dock - Malahide,Raheny ,53.381423,-6.175818,,Raheny ,Kilbarrack ,,,,Kilcoole 
+Grand Canal Dock - Malahide,Kilbarrack ,53.387472,-6.16089,,Kilbarrack ,Howth Junction and Donaghmede ,,,,Manulla Junction 
+Grand Canal Dock - Malahide,Howth Junction and Donaghmede ,53.391496,-6.155434,,Howth Junction and Donaghmede ,Clongriffin ,,,,Foxford 
+Grand Canal Dock - Malahide,Clongriffin ,53.402514,-6.149029,,Clongriffin ,Portmarnock ,,,,Ballina 
+Grand Canal Dock - Malahide,Portmarnock ,53.418177,-6.151142,,Portmarnock ,Malahide ,,,,Westport 
+Grand Canal Dock - Malahide,Malahide ,53.450686,-6.156293,,,,,,,Castlebar 
+,,,,,,,,,,Claremorris 
+Cork - Dublin,Cork (Kent) ,51.901363,-8.458343,,Cork (Kent) ,Mallow ,,,,Ballyhaunis 
+Cork - Dublin,Mallow ,52.138563,-8.654962,,Mallow ,Charleville ,,,,Castlerea 
+Cork - Dublin,Charleville ,52.347171,-8.653624,,Charleville ,Limerick Junction ,,,,Roscommon 
+Cork - Dublin,Limerick Junction ,52.503684,-8.197243,,Limerick Junction ,Thurles ,,,,Athlone 
+Cork - Dublin,Thurles ,52.676987,-7.821568,,Thurles ,Templemore ,,,,Clara 
+Cork - Dublin,Templemore ,52.788104,-7.822693,,Templemore ,Portlaoise ,,,,Tullamore 
+Cork - Dublin,Portlaoise ,53.036748,-7.301227,,Portlaoise ,Dublin Heuston ,,,,Ballinasloe 
+Cork - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,Woodlawn 
+,,,,,,,,,,Attymon 
+Dublin - Cork,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Portlaoise ,,,,Sligo (MacDiarmada) 
+Dublin - Cork,Portlaoise ,53.036748,-7.301227,,Portlaoise ,Ballybrophy ,,,,Collooney 
+Dublin - Cork,Ballybrophy ,52.900756,-7.600913,,Ballybrophy ,Templemore ,,,,Ballymote 
+Dublin - Cork,Templemore ,52.788104,-7.822693,,Templemore ,Thurles ,,,,Boyle 
+Dublin - Cork,Thurles ,52.676987,-7.821568,,Thurles ,Limerick Junction ,,,,Carrick-on-Shannon 
+Dublin - Cork,Limerick Junction ,52.503684,-8.197243,,Limerick Junction ,Charleville ,,,,Dromod 
+Dublin - Cork,Charleville ,52.347171,-8.653624,,Charleville ,Mallow ,,,,Longford 
+Dublin - Cork,Mallow ,52.138563,-8.654962,,Mallow ,Cork (Kent) ,,,,Edgeworthstown 
+Dublin - Cork,Cork (Kent) ,51.901363,-8.458343,,,,,,,Mullingar 
+,,,,,,,,,,Enfield 
+Dublin - Belfast,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Drogheda (Macbride) ,,,,Kilcock 
+Dublin - Belfast,Drogheda (Macbride) ,53.711842,-6.335709,,Drogheda (Macbride) ,Dundalk (Clarke) ,,,,Maynooth 
+Dublin - Belfast,Dundalk (Clarke) ,54.001087,-6.412385,,Dundalk (Clarke) ,Newry ,,,,Drumcondra 
+Dublin - Belfast,Newry ,54.188659,-6.362413,,Newry ,Portadown ,,,,Leixlip(Louisa Bridge) 
+Dublin - Belfast,Portadown ,54.424993,-6.445312,,Portadown ,Belfast ,,,,Broombridge 
+Dublin - Belfast,Belfast ,54.595573,-5.917156,,,,,,,Pelletstown 
+,,,,,,,,,,Ashtown 
+Tralee - Mallow,Tralee (Casement) ,52.270977,-9.699159,,Tralee (Casement) ,Farranfore ,,,,Navan Road Parkway 
+Tralee - Mallow,Farranfore ,52.173786,-9.55191,,Farranfore ,Killarney ,,,,Castleknock 
+Tralee - Mallow,Killarney ,52.0591,-9.499003,,Killarney ,Rathmore ,,,,Coolmine 
+Tralee - Mallow,Rathmore ,52.085249,-9.2182,,Rathmore ,Millstreet ,,,,Clonsilla 
+Tralee - Mallow,Millstreet ,52.077116,-9.070677,,Millstreet ,Banteer ,,,,Leixlip(Confey) 
+Tralee - Mallow,Banteer ,52.128957,-8.898573,,Banteer ,Mallow ,,,,Hansfield 
+Tralee - Mallow,Mallow ,52.138563,-8.654962,,,,,,,Dunboyne 
+,,,,,,,,,,M3 Parkway 
+Tralee - Cork,Tralee (Casement) ,52.270977,-9.699159,,Tralee (Casement) ,Farranfore ,,,,Cobh 
+Tralee - Cork,Farranfore ,52.173786,-9.55191,,Farranfore ,Killarney ,,,,Rushbrooke 
+Tralee - Cork,Killarney ,52.0591,-9.499003,,Killarney ,Rathmore ,,,,Carrigaloe 
+Tralee - Cork,Rathmore ,52.085249,-9.2182,,Rathmore ,Millstreet ,,,,Fota 
+Tralee - Cork,Millstreet ,52.077116,-9.070677,,Millstreet ,Banteer ,,,,Glounthaune 
+Tralee - Cork,Banteer ,52.128957,-8.898573,,Banteer ,Mallow ,,,,Little Island 
+Tralee - Cork,Mallow ,52.138563,-8.654962,,Mallow ,Cork (Kent) ,,,,Carrigtwohill 
+Tralee - Cork,Cork (Kent) ,51.901363,-8.458343,,,,,,,Midleton 
+,,,,,,,,,,Laytown 
+Cork - Tralee,Cork (Kent) ,51.901363,-8.458343,,Cork (Kent) ,Mallow ,,,,Gormanston 
+Cork - Tralee,Mallow ,52.138563,-8.654962,,Mallow ,Banteer ,,,,Balbriggan 
+Cork - Tralee,Banteer ,52.128957,-8.898573,,Banteer ,Millstreet ,,,,Skerries 
+Cork - Tralee,Millstreet ,52.077116,-9.070677,,Millstreet ,Rathmore ,,,,Rush and Lusk 
+Cork - Tralee,Rathmore ,52.085249,-9.2182,,Rathmore ,Killarney ,,,,Donabate 
+Cork - Tralee,Killarney ,52.0591,-9.499003,,Killarney ,Farranfore ,,,,
+Cork - Tralee,Farranfore ,52.173786,-9.55191,,Farranfore ,Tralee (Casement) ,,,,
+Cork - Tralee,Tralee (Casement) ,52.270977,-9.699159,,,,,,,
+,,,,,,,,,,
+Mallow - Tralee,Mallow ,52.138563,-8.654962,,Mallow ,Banteer ,,,,
+Mallow - Tralee,Banteer ,52.128957,-8.898573,,Banteer ,Millstreet ,,,,
+Mallow - Tralee,Millstreet ,52.077116,-9.070677,,Millstreet ,Rathmore ,,,,
+Mallow - Tralee,Rathmore ,52.085249,-9.2182,,Rathmore ,Killarney ,,,,
+Mallow - Tralee,Killarney ,52.0591,-9.499003,,Killarney ,Farranfore ,,,,
+Mallow - Tralee,Farranfore ,52.173786,-9.55191,,Farranfore ,Tralee (Casement) ,,,,
+Mallow - Tralee,Tralee (Casement) ,52.270977,-9.699159,,,,,,,
+,,,,,,,,,,
+Tralee - Dublin,Tralee (Casement) ,52.270977,-9.699159,,Tralee (Casement) ,Farranfore ,,,,
+Tralee - Dublin,Farranfore ,52.173786,-9.55191,,Farranfore ,Killarney ,,,,
+Tralee - Dublin,Killarney ,52.0591,-9.499003,,Killarney ,Rathmore ,,,,
+Tralee - Dublin,Rathmore ,52.085249,-9.2182,,Rathmore ,Millstreet ,,,,
+Tralee - Dublin,Millstreet ,52.077116,-9.070677,,Millstreet ,Banteer ,,,,
+Tralee - Dublin,Banteer ,52.128957,-8.898573,,Banteer ,Mallow ,,,,
+Tralee - Dublin,Mallow ,52.138563,-8.654962,,Mallow ,Charleville ,,,,
+Tralee - Dublin,Charleville ,52.347171,-8.653624,,Charleville ,Limerick Junction ,,,,
+Tralee - Dublin,Limerick Junction ,52.503684,-8.197243,,Limerick Junction ,Dublin Heuston ,,,,
+Tralee - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Dublin - Tralee,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Ballybrophy ,,,,
+Dublin - Tralee,Ballybrophy ,52.900756,-7.600913,,Ballybrophy ,Templemore ,,,,
+Dublin - Tralee,Templemore ,52.788104,-7.822693,,Templemore ,Thurles ,,,,
+Dublin - Tralee,Thurles ,52.676987,-7.821568,,Thurles ,Charleville ,,,,
+Dublin - Tralee,Charleville ,52.347171,-8.653624,,Charleville ,Mallow ,,,,
+Dublin - Tralee,Mallow ,52.138563,-8.654962,,Mallow ,Banteer ,,,,
+Dublin - Tralee,Banteer ,52.128957,-8.898573,,Banteer ,Millstreet ,,,,
+Dublin - Tralee,Millstreet ,52.077116,-9.070677,,Millstreet ,Rathmore ,,,,
+Dublin - Tralee,Rathmore ,52.085249,-9.2182,,Rathmore ,Killarney ,,,,
+Dublin - Tralee,Killarney ,52.0591,-9.499003,,Killarney ,Farranfore ,,,,
+Dublin - Tralee,Farranfore ,52.173786,-9.55191,,Farranfore ,Tralee (Casement) ,,,,
+Dublin - Tralee,Tralee (Casement) ,52.270977,-9.699159,,,,,,,
+,,,,,,,,,,
+Dublin - Limerick,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Monasterevin ,,,,
+Dublin - Limerick,Monasterevin ,53.145481,-7.063798,,Monasterevin ,Portarlington ,,,,
+Dublin - Limerick,Portarlington ,53.14605,-7.180555,,Portarlington ,Portlaoise ,,,,
+Dublin - Limerick,Portlaoise ,53.036748,-7.301227,,Portlaoise ,Ballybrophy ,,,,
+Dublin - Limerick,Ballybrophy ,52.900756,-7.600913,,Ballybrophy ,Templemore ,,,,
+Dublin - Limerick,Templemore ,52.788104,-7.822693,,Templemore ,Thurles ,,,,
+Dublin - Limerick,Thurles ,52.676987,-7.821568,,Thurles ,Limerick Junction ,,,,
+Dublin - Limerick,Limerick Junction ,52.503684,-8.197243,,Limerick Junction ,Limerick (Colbert) ,,,,
+Dublin - Limerick,Limerick (Colbert) ,52.658909,-8.624813,,,,,,,
+,,,,,,,,,,
+Limerick - Dublin,Limerick (Colbert) ,52.658909,-8.624813,,Limerick (Colbert) ,Limerick Junction ,,,,
+Limerick - Dublin,Limerick Junction ,52.503684,-8.197243,,Limerick Junction ,Thurles ,,,,
+Limerick - Dublin,Thurles ,52.676987,-7.821568,,Thurles ,Templemore ,,,,
+Limerick - Dublin,Templemore ,52.788104,-7.822693,,Templemore ,Ballybrophy ,,,,
+Limerick - Dublin,Ballybrophy ,52.900756,-7.600913,,Ballybrophy ,Portlaoise ,,,,
+Limerick - Dublin,Portlaoise ,53.036748,-7.301227,,Portlaoise ,Monasterevin ,,,,
+Limerick - Dublin,Monasterevin ,53.145481,-7.063798,,Monasterevin ,Kildare ,,,,
+Limerick - Dublin,Kildare ,53.162778,-6.907936,,Kildare ,Dublin Heuston ,,,,
+Limerick - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Dublin - Limerick,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Kildare ,,,,
+Dublin - Limerick,Kildare ,53.162778,-6.907936,,Kildare ,Portarlington ,,,,
+Dublin - Limerick,Portarlington ,53.14605,-7.180555,,Portarlington ,Portlaoise ,,,,
+Dublin - Limerick,Portlaoise ,53.036748,-7.301227,,Portlaoise ,Ballybrophy ,,,,
+Dublin - Limerick,Ballybrophy ,52.900756,-7.600913,,Ballybrophy ,Templemore ,,,,
+Dublin - Limerick,Templemore ,52.788104,-7.822693,,Templemore ,Thurles ,,,,
+Dublin - Limerick,Thurles ,52.676987,-7.821568,,Thurles ,Limerick (Colbert) ,,,,
+Dublin - Limerick,Limerick (Colbert) ,52.658909,-8.624813,,,,,,,
+,,,,,,,,,,
+Limerick - Dublin,Limerick (Colbert) ,52.658909,-8.624813,,Limerick (Colbert) ,Thurles ,,,,
+Limerick - Dublin,Thurles ,52.676987,-7.821568,,Thurles ,Templemore ,,,,
+Limerick - Dublin,Templemore ,52.788104,-7.822693,,Templemore ,Ballybrophy ,,,,
+Limerick - Dublin,Ballybrophy ,52.900756,-7.600913,,Ballybrophy ,Portlaoise ,,,,
+Limerick - Dublin,Portlaoise ,53.036748,-7.301227,,Portlaoise ,Newbridge ,,,,
+Limerick - Dublin,Newbridge ,53.185394,-6.808223,,Newbridge ,Dublin Heuston ,,,,
+Limerick - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Limerick - Dublin,Limerick (Colbert) ,52.658909,-8.624813,,Limerick (Colbert) ,Thurles ,,,,
+Limerick - Dublin,Thurles ,52.676987,-7.821568,,Thurles ,Templemore ,,,,
+Limerick - Dublin,Templemore ,52.788104,-7.822693,,Templemore ,Ballybrophy ,,,,
+Limerick - Dublin,Ballybrophy ,52.900756,-7.600913,,Ballybrophy ,Portlaoise ,,,,
+Limerick - Dublin,Portlaoise ,53.036748,-7.301227,,Portlaoise ,Portarlington ,,,,
+Limerick - Dublin,Portarlington ,53.14605,-7.180555,,Portarlington ,Kildare ,,,,
+Limerick - Dublin,Kildare ,53.162778,-6.907936,,Kildare ,Sallins and Naas ,,,,
+Limerick - Dublin,Sallins and Naas ,53.247026,-6.664586,,Sallins and Naas ,Dublin Heuston ,,,,
+Limerick - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Galway  - Ennis ,Galway (Ceannt) ,53.273766,-9.047075,,Galway (Ceannt) ,Oranmore ,,,,
+Galway  - Ennis ,Oranmore ,53.27558,-8.946804,,Oranmore ,Athenry ,,,,
+Galway  - Ennis ,Athenry ,53.30153,-8.748547,,Athenry ,Craughwell ,,,,
+Galway  - Ennis ,Craughwell ,53.225817,-8.73576,,Craughwell ,Ardrahan ,,,,
+Galway  - Ennis ,Ardrahan ,53.157044,-8.814752,,Ardrahan ,Gort ,,,,
+Galway  - Ennis ,Gort ,53.066314,-8.815618,,Gort ,Ennis ,,,,
+Galway  - Ennis ,Ennis ,52.839215,-8.97545,,,,,,,
+,,,,,,,,,,
+Ennis - Galway ,Ennis ,52.839215,-8.97545,,Ennis ,Gort ,,,,
+Ennis - Galway ,Gort ,53.066314,-8.815618,,Gort ,Ardrahan ,,,,
+Ennis - Galway ,Ardrahan ,53.157044,-8.814752,,Ardrahan ,Craughwell ,,,,
+Ennis - Galway ,Craughwell ,53.225817,-8.73576,,Craughwell ,Athenry ,,,,
+Ennis - Galway ,Athenry ,53.30153,-8.748547,,Athenry ,Oranmore ,,,,
+Ennis - Galway ,Oranmore ,53.27558,-8.946804,,Oranmore ,Galway (Ceannt) ,,,,
+Ennis - Galway ,Galway (Ceannt) ,53.273766,-9.047075,,,,,,,
+,,,,,,,,,,
+ Waterford - Limerick,Waterford (Plunkett) ,52.26625,-7.117956,,Waterford (Plunkett) ,Carrick-on-Suir ,,,,
+ Waterford - Limerick,Carrick-on-Suir ,52.349096,-7.404866,,Carrick-on-Suir ,Clonmel ,,,,
+ Waterford - Limerick,Clonmel ,52.360871,-7.698633,,Clonmel ,Cahir ,,,,
+ Waterford - Limerick,Cahir ,52.377832,-7.922795,,Cahir ,Tipperary ,,,,
+ Waterford - Limerick,Tipperary ,52.470091,-8.162103,,Tipperary ,Limerick Junction ,,,,
+ Waterford - Limerick,Limerick Junction ,52.503684,-8.197243,,,,,,,
+,,,,,,,,,,
+Limerick -  Waterford,Limerick Junction ,52.503684,-8.197243,,Limerick Junction ,Tipperary ,,,,
+Limerick -  Waterford,Tipperary ,52.470091,-8.162103,,Tipperary ,Cahir ,,,,
+Limerick -  Waterford,Cahir ,52.377832,-7.922795,,Cahir ,Clonmel ,,,,
+Limerick -  Waterford,Clonmel ,52.360871,-7.698633,,Clonmel ,Carrick-on-Suir ,,,,
+Limerick -  Waterford,Carrick-on-Suir ,52.349096,-7.404866,,Carrick-on-Suir ,Waterford (Plunkett) ,,,,
+Limerick -  Waterford,Waterford (Plunkett) ,52.26625,-7.117956,,,,,,,
+,,,,,,,,,,
+Limerick - Ballybrophy,Limerick (Colbert) ,52.658909,-8.624813,,Limerick (Colbert) ,Castleconnell ,,,,
+Limerick - Ballybrophy,Castleconnell ,52.713293,-8.498101,,Castleconnell ,Birdhill ,,,,
+Limerick - Ballybrophy,Birdhill ,52.766173,-8.441806,,Birdhill ,Nenagh ,,,,
+Limerick - Ballybrophy,Nenagh ,52.860593,-8.195742,,Nenagh ,Cloughjordan ,,,,
+Limerick - Ballybrophy,Cloughjordan ,52.936316,-8.0246,,Cloughjordan ,Roscrea ,,,,
+Limerick - Ballybrophy,Roscrea ,52.960557,-7.794415,,Roscrea ,Ballybrophy ,,,,
+Limerick - Ballybrophy,Ballybrophy ,52.900756,-7.600913,,,,,,,
+,,,,,,,,,,
+Ballybrophy - Limerick,Ballybrophy ,52.900756,-7.600913,,Ballybrophy ,Roscrea ,,,,
+Ballybrophy - Limerick,Roscrea ,52.960557,-7.794415,,Roscrea ,Cloughjordan ,,,,
+Ballybrophy - Limerick,Cloughjordan ,52.936316,-8.0246,,Cloughjordan ,Nenagh ,,,,
+Ballybrophy - Limerick,Nenagh ,52.860593,-8.195742,,Nenagh ,Birdhill ,,,,
+Ballybrophy - Limerick,Birdhill ,52.766173,-8.441806,,Birdhill ,Castleconnell ,,,,
+Ballybrophy - Limerick,Castleconnell ,52.713293,-8.498101,,Castleconnell ,Limerick (Colbert) ,,,,
+Ballybrophy - Limerick,Limerick (Colbert) ,52.658909,-8.624813,,,,,,,
+,,,,,,,,,,
+Carlow - Dublin,Carlow ,52.840788,-6.922622,,Carlow ,Athy ,,,,
+Carlow - Dublin,Athy ,53.129448,-7.001007,,Athy ,Kildare ,,,,
+Carlow - Dublin,Kildare ,53.162778,-6.907936,,Kildare ,Newbridge ,,,,
+Carlow - Dublin,Newbridge ,53.185394,-6.808223,,Newbridge ,Sallins and Naas ,,,,
+Carlow - Dublin,Sallins and Naas ,53.247026,-6.664586,,Sallins and Naas ,Hazelhatch and Celbridge ,,,,
+Carlow - Dublin,Hazelhatch and Celbridge ,53.323003,-6.523108,,Hazelhatch and Celbridge ,Adamstown ,,,,
+Carlow - Dublin,Adamstown ,53.336295,-6.46911,,Adamstown ,Clondalkin Fonthill ,,,,
+Carlow - Dublin,Clondalkin Fonthill ,53.33337,-6.406279,,Clondalkin Fonthill ,Park West and Cherry Orchard ,,,,
+Carlow - Dublin,Park West and Cherry Orchard ,53.334009,-6.37876,,Park West and Cherry Orchard ,Dublin Heuston ,,,,
+Carlow - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Waterford - Dublin,Waterford (Plunkett) ,52.26625,-7.117956,,Waterford (Plunkett) ,Thomastown ,,,,
+Waterford - Dublin,Thomastown ,52.523049,-7.148997,,Thomastown ,Kilkenny (Macdonagh) ,,,,
+Waterford - Dublin,Kilkenny (Macdonagh) ,52.654955,-7.24498,,Kilkenny (Macdonagh) ,Muine Bheag (Bagenalstown) ,,,,
+Waterford - Dublin,Muine Bheag (Bagenalstown) ,52.69918,-6.952653,,Muine Bheag (Bagenalstown) ,Carlow ,,,,
+Waterford - Dublin,Carlow ,52.840788,-6.922622,,Carlow ,Athy ,,,,
+Waterford - Dublin,Athy ,53.129448,-7.001007,,Athy ,Kildare ,,,,
+Waterford - Dublin,Kildare ,53.162778,-6.907936,,Kildare ,Newbridge ,,,,
+Waterford - Dublin,Newbridge ,53.185394,-6.808223,,Newbridge ,Dublin Heuston ,,,,
+Waterford - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Dublin - Carlow,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Park West and Cherry Orchard ,,,,
+Dublin - Carlow,Park West and Cherry Orchard ,53.334009,-6.37876,,Park West and Cherry Orchard ,Clondalkin Fonthill ,,,,
+Dublin - Carlow,Clondalkin Fonthill ,53.33337,-6.406279,,Clondalkin Fonthill ,Adamstown ,,,,
+Dublin - Carlow,Adamstown ,53.336295,-6.46911,,Adamstown ,Hazelhatch and Celbridge ,,,,
+Dublin - Carlow,Hazelhatch and Celbridge ,53.323003,-6.523108,,Hazelhatch and Celbridge ,Sallins and Naas ,,,,
+Dublin - Carlow,Sallins and Naas ,53.247026,-6.664586,,Sallins and Naas ,Newbridge ,,,,
+Dublin - Carlow,Newbridge ,53.185394,-6.808223,,Newbridge ,Kildare ,,,,
+Dublin - Carlow,Kildare ,53.162778,-6.907936,,Kildare ,Athy ,,,,
+Dublin - Carlow,Athy ,53.129448,-7.001007,,Athy ,Carlow ,,,,
+Dublin - Carlow,Carlow ,52.840788,-6.922622,,,,,,,
+,,,,,,,,,,
+Dublin - Waterford,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Newbridge ,,,,
+Dublin - Waterford,Newbridge ,53.185394,-6.808223,,Newbridge ,Kildare ,,,,
+Dublin - Waterford,Kildare ,53.162778,-6.907936,,Kildare ,Athy ,,,,
+Dublin - Waterford,Athy ,53.129448,-7.001007,,Athy ,Carlow ,,,,
+Dublin - Waterford,Carlow ,52.840788,-6.922622,,Carlow ,Muine Bheag (Bagenalstown) ,,,,
+Dublin - Waterford,Muine Bheag (Bagenalstown) ,52.69918,-6.952653,,Muine Bheag (Bagenalstown) ,Kilkenny (Macdonagh) ,,,,
+Dublin - Waterford,Kilkenny (Macdonagh) ,52.654955,-7.24498,,Kilkenny (Macdonagh) ,Thomastown ,,,,
+Dublin - Waterford,Thomastown ,52.523049,-7.148997,,Thomastown ,Waterford (Plunkett) ,,,,
+Dublin - Waterford,Waterford (Plunkett) ,52.26625,-7.117956,,,,,,,
+,,,,,,,,,,
+Dublin - Waterford,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Hazelhatch and Celbridge ,,,,
+Dublin - Waterford,Hazelhatch and Celbridge ,53.323003,-6.523108,,Hazelhatch and Celbridge ,Sallins and Naas ,,,,
+Dublin - Waterford,Sallins and Naas ,53.247026,-6.664586,,Sallins and Naas ,Kildare ,,,,
+Dublin - Waterford,Kildare ,53.162778,-6.907936,,Kildare ,Athy ,,,,
+Dublin - Waterford,Athy ,53.129448,-7.001007,,Athy ,Carlow ,,,,
+Dublin - Waterford,Carlow ,52.840788,-6.922622,,Carlow ,Muine Bheag (Bagenalstown) ,,,,
+Dublin - Waterford,Muine Bheag (Bagenalstown) ,52.69918,-6.952653,,Muine Bheag (Bagenalstown) ,Kilkenny (Macdonagh) ,,,,
+Dublin - Waterford,Kilkenny (Macdonagh) ,52.654955,-7.24498,,Kilkenny (Macdonagh) ,Thomastown ,,,,
+Dublin - Waterford,Thomastown ,52.523049,-7.148997,,Thomastown ,Waterford (Plunkett) ,,,,
+Dublin - Waterford,Waterford (Plunkett) ,52.26625,-7.117956,,,,,,,
+,,,,,,,,,,
+Dublin - Europort,Rosslare Europort ,52.251407,-6.338331,,Rosslare Europort ,Rosslare Strand ,,,,
+Dublin - Europort,Rosslare Strand ,52.27172,-6.391356,,Rosslare Strand ,Wexford (O Hanrahan) ,,,,
+Dublin - Europort,Wexford (O Hanrahan) ,52.343201,-6.464389,,Wexford (O Hanrahan) ,Enniscorthy ,,,,
+Dublin - Europort,Enniscorthy ,52.504303,-6.566417,,Enniscorthy ,Gorey ,,,,
+Dublin - Europort,Gorey ,52.671374,-6.292235,,Gorey ,Arklow ,,,,
+Dublin - Europort,Arklow ,52.793921,-6.159583,,Arklow ,Rathdrum ,,,,
+Dublin - Europort,Rathdrum ,52.93035,-6.226418,,Rathdrum ,Wicklow ,,,,
+Dublin - Europort,Wicklow ,52.988042,-6.052894,,Wicklow ,Kilcoole ,,,,
+Dublin - Europort,Kilcoole ,53.106971,-6.041121,,Kilcoole ,Greystones ,,,,
+Dublin - Europort,Greystones ,53.144026,-6.061128,,,,,,,
+,,,,,,,,,,
+Europort - Dublin,Greystones ,53.144026,-6.061128,,Greystones ,Kilcoole ,,,,
+Europort - Dublin,Kilcoole ,53.106971,-6.041121,,Kilcoole ,Wicklow ,,,,
+Europort - Dublin,Wicklow ,52.988042,-6.052894,,Wicklow ,Rathdrum ,,,,
+Europort - Dublin,Rathdrum ,52.93035,-6.226418,,Rathdrum ,Arklow ,,,,
+Europort - Dublin,Arklow ,52.793921,-6.159583,,Arklow ,Gorey ,,,,
+Europort - Dublin,Gorey ,52.671374,-6.292235,,Gorey ,Enniscorthy ,,,,
+Europort - Dublin,Enniscorthy ,52.504303,-6.566417,,Enniscorthy ,Wexford (O Hanrahan) ,,,,
+Europort - Dublin,Wexford (O Hanrahan) ,52.343201,-6.464389,,Wexford (O Hanrahan) ,Rosslare Strand ,,,,
+Europort - Dublin,Rosslare Strand ,52.27172,-6.391356,,Rosslare Strand ,Rosslare Europort ,,,,
+Europort - Dublin,Rosslare Europort ,52.251407,-6.338331,,,,,,,
+,,,,,,,,,,
+Manulla Junction - Ballina ,Manulla Junction ,53.827975,-9.192956,,Manulla Junction ,Foxford ,,,,
+Manulla Junction - Ballina ,Foxford ,53.982939,-9.136433,,Foxford ,Ballina ,,,,
+Manulla Junction - Ballina ,Ballina ,54.109063,-9.160596,,,,,,,
+,,,,,,,,,,
+Ballina - Manulla Junction,Ballina ,54.109063,-9.160596,,Ballina ,Foxford ,,,,
+Ballina - Manulla Junction,Foxford ,53.982939,-9.136433,,Foxford ,Manulla Junction ,,,,
+Ballina - Manulla Junction,Manulla Junction ,53.827975,-9.192956,,,,,,,
+,,,,,,,,,,
+Westport  - Dublin,Westport ,53.796207,-9.510052,,Westport ,Castlebar ,,,,
+Westport  - Dublin,Castlebar ,53.847519,-9.288282,,Castlebar ,Manulla Junction ,,,,
+Westport  - Dublin,Manulla Junction ,53.827975,-9.192956,,Manulla Junction ,Claremorris ,,,,
+Westport  - Dublin,Claremorris ,53.720661,-9.002144,,Claremorris ,Ballyhaunis ,,,,
+Westport  - Dublin,Ballyhaunis ,53.761772,-8.758716,,Ballyhaunis ,Castlerea ,,,,
+Westport  - Dublin,Castlerea ,53.76153,-8.485715,,Castlerea ,Roscommon ,,,,
+Westport  - Dublin,Roscommon ,53.624349,-8.196312,,Roscommon ,Athlone ,,,,
+Westport  - Dublin,Athlone ,53.426785,-7.935736,,Athlone ,Clara ,,,,
+Westport  - Dublin,Clara ,53.339842,-7.61651,,Clara ,Tullamore ,,,,
+Westport  - Dublin,Tullamore ,53.270418,-7.50029,,Tullamore ,Portarlington ,,,,
+Westport  - Dublin,Portarlington ,53.14605,-7.180555,,Portarlington ,Monasterevin ,,,,
+Westport  - Dublin,Monasterevin ,53.145481,-7.063798,,Monasterevin ,Kildare ,,,,
+Westport  - Dublin,Kildare ,53.162778,-6.907936,,Kildare ,Newbridge ,,,,
+Westport  - Dublin,Newbridge ,53.185394,-6.808223,,Newbridge ,Dublin Heuston ,,,,
+Westport  - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Dublin - Westport,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Portarlington ,,,,
+Dublin - Westport,Portarlington ,53.14605,-7.180555,,Portarlington ,Tullamore ,,,,
+Dublin - Westport,Tullamore ,53.270418,-7.50029,,Tullamore ,Clara ,,,,
+Dublin - Westport,Clara ,53.339842,-7.61651,,Clara ,Athlone ,,,,
+Dublin - Westport,Athlone ,53.426785,-7.935736,,Athlone ,Roscommon ,,,,
+Dublin - Westport,Roscommon ,53.624349,-8.196312,,Roscommon ,Castlerea ,,,,
+Dublin - Westport,Castlerea ,53.76153,-8.485715,,Castlerea ,Ballyhaunis ,,,,
+Dublin - Westport,Ballyhaunis ,53.761772,-8.758716,,Ballyhaunis ,Claremorris ,,,,
+Dublin - Westport,Claremorris ,53.720661,-9.002144,,Claremorris ,Manulla Junction ,,,,
+Dublin - Westport,Manulla Junction ,53.827975,-9.192956,,Manulla Junction ,Castlebar ,,,,
+Dublin - Westport,Castlebar ,53.847519,-9.288282,,Castlebar ,Westport ,,,,
+Dublin - Westport,Westport ,53.796207,-9.510052,,,,,,,
+,,,,,,,,,,
+Dublin - Athlone,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Newbridge ,,,,
+Dublin - Athlone,Newbridge ,53.185394,-6.808223,,Newbridge ,Kildare ,,,,
+Dublin - Athlone,Kildare ,53.162778,-6.907936,,Kildare ,Monasterevin ,,,,
+Dublin - Athlone,Monasterevin ,53.145481,-7.063798,,Monasterevin ,Portarlington ,,,,
+Dublin - Athlone,Portarlington ,53.14605,-7.180555,,Portarlington ,Tullamore ,,,,
+Dublin - Athlone,Tullamore ,53.270418,-7.50029,,Tullamore ,Clara ,,,,
+Dublin - Athlone,Clara ,53.339842,-7.61651,,Clara ,Athlone ,,,,
+Dublin - Athlone,Athlone ,53.426785,-7.935736,,,,,,,
+,,,,,,,,,,
+Dublin - Galway,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Kildare ,,,,
+Dublin - Galway,Kildare ,53.162778,-6.907936,,Kildare ,Portarlington ,,,,
+Dublin - Galway,Portarlington ,53.14605,-7.180555,,Portarlington ,Tullamore ,,,,
+Dublin - Galway,Tullamore ,53.270418,-7.50029,,Tullamore ,Clara ,,,,
+Dublin - Galway,Clara ,53.339842,-7.61651,,Clara ,Athlone ,,,,
+Dublin - Galway,Athlone ,53.426785,-7.935736,,Athlone ,Ballinasloe ,,,,
+Dublin - Galway,Ballinasloe ,53.336282,-8.24081,,Ballinasloe ,Woodlawn ,,,,
+Dublin - Galway,Woodlawn ,53.343162,-8.472313,,Woodlawn ,Attymon ,,,,
+Dublin - Galway,Attymon ,53.321204,-8.606078,,Attymon ,Athenry ,,,,
+Dublin - Galway,Athenry ,53.30153,-8.748547,,Athenry ,Oranmore ,,,,
+Dublin - Galway,Oranmore ,53.27558,-8.946804,,Oranmore ,Galway (Ceannt) ,,,,
+Dublin - Galway,Galway (Ceannt) ,53.273766,-9.047075,,,,,,,
+,,,,,,,,,,
+Galway - Dublin,Galway (Ceannt) ,53.273766,-9.047075,,Galway (Ceannt) ,Oranmore ,,,,
+Galway - Dublin,Oranmore ,53.27558,-8.946804,,Oranmore ,Athenry ,,,,
+Galway - Dublin,Athenry ,53.30153,-8.748547,,Athenry ,Woodlawn ,,,,
+Galway - Dublin,Woodlawn ,53.343162,-8.472313,,Woodlawn ,Ballinasloe ,,,,
+Galway - Dublin,Ballinasloe ,53.336282,-8.24081,,Ballinasloe ,Athlone ,,,,
+Galway - Dublin,Athlone ,53.426785,-7.935736,,Athlone ,Clara ,,,,
+Galway - Dublin,Clara ,53.339842,-7.61651,,Clara ,Tullamore ,,,,
+Galway - Dublin,Tullamore ,53.270418,-7.50029,,Tullamore ,Portarlington ,,,,
+Galway - Dublin,Portarlington ,53.14605,-7.180555,,Portarlington ,Kildare ,,,,
+Galway - Dublin,Kildare ,53.162778,-6.907936,,Kildare ,Newbridge ,,,,
+Galway - Dublin,Newbridge ,53.185394,-6.808223,,Newbridge ,Sallins and Naas ,,,,
+Galway - Dublin,Sallins and Naas ,53.247026,-6.664586,,Sallins and Naas ,Dublin Heuston ,,,,
+Galway - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Galway - Dublin,Galway (Ceannt) ,53.273766,-9.047075,,Galway (Ceannt) ,Oranmore ,,,,
+Galway - Dublin,Oranmore ,53.27558,-8.946804,,Oranmore ,Athenry ,,,,
+Galway - Dublin,Athenry ,53.30153,-8.748547,,Athenry ,Attymon ,,,,
+Galway - Dublin,Attymon ,53.321204,-8.606078,,Attymon ,Woodlawn ,,,,
+Galway - Dublin,Woodlawn ,53.343162,-8.472313,,Woodlawn ,Ballinasloe ,,,,
+Galway - Dublin,Ballinasloe ,53.336282,-8.24081,,Ballinasloe ,Athlone ,,,,
+Galway - Dublin,Athlone ,53.426785,-7.935736,,Athlone ,Tullamore ,,,,
+Galway - Dublin,Tullamore ,53.270418,-7.50029,,Tullamore ,Portarlington ,,,,
+Galway - Dublin,Portarlington ,53.14605,-7.180555,,Portarlington ,Kildare ,,,,
+Galway - Dublin,Kildare ,53.162778,-6.907936,,Kildare ,Newbridge ,,,,
+Galway - Dublin,Newbridge ,53.185394,-6.808223,,Newbridge ,Dublin Heuston ,,,,
+Galway - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Galway - Dublin,Galway (Ceannt) ,53.273766,-9.047075,,Galway (Ceannt) ,Oranmore ,,,,
+Galway - Dublin,Oranmore ,53.27558,-8.946804,,Oranmore ,Athenry ,,,,
+Galway - Dublin,Athenry ,53.30153,-8.748547,,Athenry ,Attymon ,,,,
+Galway - Dublin,Attymon ,53.321204,-8.606078,,Attymon ,Woodlawn ,,,,
+Galway - Dublin,Woodlawn ,53.343162,-8.472313,,Woodlawn ,Ballinasloe ,,,,
+Galway - Dublin,Ballinasloe ,53.336282,-8.24081,,Ballinasloe ,Athlone ,,,,
+Galway - Dublin,Athlone ,53.426785,-7.935736,,Athlone ,Clara ,,,,
+Galway - Dublin,Clara ,53.339842,-7.61651,,Clara ,Tullamore ,,,,
+Galway - Dublin,Tullamore ,53.270418,-7.50029,,Tullamore ,Portarlington ,,,,
+Galway - Dublin,Portarlington ,53.14605,-7.180555,,Portarlington ,Dublin Heuston ,,,,
+Galway - Dublin,Dublin Heuston ,53.346404,-6.293487,,,,,,,
+,,,,,,,,,,
+Dublin - Galway,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Newbridge ,,,,
+Dublin - Galway,Newbridge ,53.185394,-6.808223,,Newbridge ,Kildare ,,,,
+Dublin - Galway,Kildare ,53.162778,-6.907936,,Kildare ,Tullamore ,,,,
+Dublin - Galway,Tullamore ,53.270418,-7.50029,,Tullamore ,Athlone ,,,,
+Dublin - Galway,Athlone ,53.426785,-7.935736,,Athlone ,Ballinasloe ,,,,
+Dublin - Galway,Ballinasloe ,53.336282,-8.24081,,Ballinasloe ,Woodlawn ,,,,
+Dublin - Galway,Woodlawn ,53.343162,-8.472313,,Woodlawn ,Athenry ,,,,
+Dublin - Galway,Athenry ,53.30153,-8.748547,,Athenry ,Galway (Ceannt) ,,,,
+Dublin - Galway,Galway (Ceannt) ,53.273766,-9.047075,,,,,,,
+,,,,,,,,,,
+Dublin - Galway,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Sallins and Naas ,,,,
+Dublin - Galway,Sallins and Naas ,53.247026,-6.664586,,Sallins and Naas ,Newbridge ,,,,
+Dublin - Galway,Newbridge ,53.185394,-6.808223,,Newbridge ,Portarlington ,,,,
+Dublin - Galway,Portarlington ,53.14605,-7.180555,,Portarlington ,Tullamore ,,,,
+Dublin - Galway,Tullamore ,53.270418,-7.50029,,Tullamore ,Clara ,,,,
+Dublin - Galway,Clara ,53.339842,-7.61651,,Clara ,Athlone ,,,,
+Dublin - Galway,Athlone ,53.426785,-7.935736,,Athlone ,Ballinasloe ,,,,
+Dublin - Galway,Ballinasloe ,53.336282,-8.24081,,Ballinasloe ,Athenry ,,,,
+Dublin - Galway,Athenry ,53.30153,-8.748547,,Athenry ,Oranmore ,,,,
+Dublin - Galway,Oranmore ,53.27558,-8.946804,,Oranmore ,Galway (Ceannt) ,,,,
+Dublin - Galway,Galway (Ceannt) ,53.273766,-9.047075,,,,,,,
+,,,,,,,,,,
+Dublin - Galway,Dublin Heuston ,53.346404,-6.293487,,Dublin Heuston ,Monasterevin ,,,,
+Dublin - Galway,Monasterevin ,53.145481,-7.063798,,Monasterevin ,Portarlington ,,,,
+Dublin - Galway,Portarlington ,53.14605,-7.180555,,Portarlington ,Clara ,,,,
+Dublin - Galway,Clara ,53.339842,-7.61651,,Clara ,Athlone ,,,,
+Dublin - Galway,Athlone ,53.426785,-7.935736,,Athlone ,Ballinasloe ,,,,
+Dublin - Galway,Ballinasloe ,53.336282,-8.24081,,Ballinasloe ,Athenry ,,,,
+Dublin - Galway,Athenry ,53.30153,-8.748547,,Athenry ,Oranmore ,,,,
+Dublin - Galway,Oranmore ,53.27558,-8.946804,,Oranmore ,Galway (Ceannt) ,,,,
+Dublin - Galway,Galway (Ceannt) ,53.273766,-9.047075,,,,,,,
+,,,,,,,,,,
+Sligo - Dublin,Sligo (MacDiarmada) ,54.271956,-8.481925,,Sligo (MacDiarmada) ,Collooney ,,,,
+Sligo - Dublin,Collooney ,54.18643,-8.494876,,Collooney ,Ballymote ,,,,
+Sligo - Dublin,Ballymote ,54.088241,-8.52155,,Ballymote ,Boyle ,,,,
+Sligo - Dublin,Boyle ,53.967594,-8.304383,,Boyle ,Carrick-on-Shannon ,,,,
+Sligo - Dublin,Carrick-on-Shannon ,53.93846,-8.107176,,Carrick-on-Shannon ,Dromod ,,,,
+Sligo - Dublin,Dromod ,53.859239,-7.916454,,Dromod ,Longford ,,,,
+Sligo - Dublin,Longford ,53.724079,-7.796346,,Longford ,Edgeworthstown ,,,,
+Sligo - Dublin,Edgeworthstown ,53.688865,-7.603029,,Edgeworthstown ,Mullingar ,,,,
+Sligo - Dublin,Mullingar ,53.523035,-7.346082,,Mullingar ,Enfield ,,,,
+Sligo - Dublin,Enfield ,53.416677,-6.832842,,Enfield ,Kilcock ,,,,
+Sligo - Dublin,Kilcock ,53.398946,-6.6688,,Kilcock ,Maynooth ,,,,
+Sligo - Dublin,Maynooth ,53.378038,-6.590566,,Maynooth ,Drumcondra ,,,,
+Sligo - Dublin,Drumcondra ,53.363012,-6.258578,,Drumcondra ,Dublin Connolly ,,,,
+Sligo - Dublin,Dublin Connolly ,53.352586,-6.247731,,,,,,,
+,,,,,,,,,,
+Dublin - Sligo,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Drumcondra ,,,,
+Dublin - Sligo,Drumcondra ,53.363012,-6.258578,,Drumcondra ,Maynooth ,,,,
+Dublin - Sligo,Maynooth ,53.378038,-6.590566,,Maynooth ,Kilcock ,,,,
+Dublin - Sligo,Kilcock ,53.398946,-6.6688,,Kilcock ,Enfield ,,,,
+Dublin - Sligo,Enfield ,53.416677,-6.832842,,Enfield ,Mullingar ,,,,
+Dublin - Sligo,Mullingar ,53.523035,-7.346082,,Mullingar ,Edgeworthstown ,,,,
+Dublin - Sligo,Edgeworthstown ,53.688865,-7.603029,,Edgeworthstown ,Longford ,,,,
+Dublin - Sligo,Longford ,53.724079,-7.796346,,Longford ,Dromod ,,,,
+Dublin - Sligo,Dromod ,53.859239,-7.916454,,Dromod ,Carrick-on-Shannon ,,,,
+Dublin - Sligo,Carrick-on-Shannon ,53.93846,-8.107176,,Carrick-on-Shannon ,Boyle ,,,,
+Dublin - Sligo,Boyle ,53.967594,-8.304383,,Boyle ,Ballymote ,,,,
+Dublin - Sligo,Ballymote ,54.088241,-8.52155,,Ballymote ,Collooney ,,,,
+Dublin - Sligo,Collooney ,54.18643,-8.494876,,Collooney ,Sligo (MacDiarmada) ,,,,
+Dublin - Sligo,Sligo (MacDiarmada) ,54.271956,-8.481925,,,,,,,
+,,,,,,,,,,
+Dublin - Sligo,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Leixlip(Louisa Bridge) ,,,,
+Dublin - Sligo,Leixlip(Louisa Bridge) ,53.370063,-6.506275,,Leixlip(Louisa Bridge) ,Maynooth ,,,,
+Dublin - Sligo,Maynooth ,53.378038,-6.590566,,Maynooth ,Kilcock ,,,,
+Dublin - Sligo,Kilcock ,53.398946,-6.6688,,Kilcock ,Enfield ,,,,
+Dublin - Sligo,Enfield ,53.416677,-6.832842,,Enfield ,Mullingar ,,,,
+Dublin - Sligo,Mullingar ,53.523035,-7.346082,,Mullingar ,Edgeworthstown ,,,,
+Dublin - Sligo,Edgeworthstown ,53.688865,-7.603029,,Edgeworthstown ,Longford ,,,,
+Dublin - Sligo,Longford ,53.724079,-7.796346,,Longford ,Dromod ,,,,
+Dublin - Sligo,Dromod ,53.859239,-7.916454,,Dromod ,Carrick-on-Shannon ,,,,
+Dublin - Sligo,Carrick-on-Shannon ,53.93846,-8.107176,,Carrick-on-Shannon ,Boyle ,,,,
+Dublin - Sligo,Boyle ,53.967594,-8.304383,,Boyle ,Ballymote ,,,,
+Dublin - Sligo,Ballymote ,54.088241,-8.52155,,Ballymote ,Collooney ,,,,
+Dublin - Sligo,Collooney ,54.18643,-8.494876,,Collooney ,Sligo (MacDiarmada) ,,,,
+Dublin - Sligo,Sligo (MacDiarmada) ,54.271956,-8.481925,,,,,,,
+,,,,,,,,,,
+Belfast - Dublin,Belfast ,54.595573,-5.917156,,Belfast ,Portadown ,,,,
+Belfast - Dublin,Portadown ,54.424993,-6.445312,,Portadown ,Newry ,,,,
+Belfast - Dublin,Newry ,54.188659,-6.362413,,Newry ,Dundalk (Clarke) ,,,,
+Belfast - Dublin,Dundalk (Clarke) ,54.001087,-6.412385,,Dundalk (Clarke) ,Drogheda (Macbride) ,,,,
+Belfast - Dublin,Drogheda (Macbride) ,53.711842,-6.335709,,Drogheda (Macbride) ,Dublin Connolly ,,,,
+Belfast - Dublin,Dublin Connolly ,53.352586,-6.247731,,,,,,,
+,,,,,,,,,,
+Dundalk- Dublin,Dundalk (Clarke) ,54.001087,-6.412385,,Dundalk (Clarke) ,Drogheda (Macbride) ,,,,
+Dundalk- Dublin,Drogheda (Macbride) ,53.711842,-6.335709,,Drogheda (Macbride) ,Dublin Connolly ,,,,
+Dundalk- Dublin,Dublin Connolly ,53.352586,-6.247731,,,,,,,
+,,,,,,,,,,
+Dublin - Maynooth,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Drumcondra ,,,,
+Dublin - Maynooth,Drumcondra ,53.363012,-6.258578,,Drumcondra ,Broombridge ,,,,
+Dublin - Maynooth,Broombridge ,53.372506,-6.29869,,Broombridge ,Pelletstown ,,,,
+Dublin - Maynooth,Pelletstown ,53.375249,-6.313876,,Pelletstown ,Ashtown ,,,,
+Dublin - Maynooth,Ashtown ,53.375258,-6.332386,,Ashtown ,Navan Road Parkway ,,,,
+Dublin - Maynooth,Navan Road Parkway ,53.377708,-6.345914,,Navan Road Parkway ,Castleknock ,,,,
+Dublin - Maynooth,Castleknock ,53.381576,-6.371492,,Castleknock ,Coolmine ,,,,
+Dublin - Maynooth,Coolmine ,53.377506,-6.391524,,Coolmine ,Clonsilla ,,,,
+Dublin - Maynooth,Clonsilla ,53.383004,-6.423078,,Clonsilla ,Leixlip(Confey) ,,,,
+Dublin - Maynooth,Leixlip(Confey) ,53.374065,-6.485464,,Leixlip(Confey) ,Leixlip(Louisa Bridge) ,,,,
+Dublin - Maynooth,Leixlip(Louisa Bridge) ,53.370063,-6.506275,,Leixlip(Louisa Bridge) ,Maynooth ,,,,
+Dublin - Maynooth,Maynooth ,53.378038,-6.590566,,,,,,,
+,,,,,,,,,,
+Maynooth - Dublin,Maynooth ,53.378038,-6.590566,,Maynooth ,Leixlip(Louisa Bridge) ,,,,
+Maynooth - Dublin,Leixlip(Louisa Bridge) ,53.370063,-6.506275,,Leixlip(Louisa Bridge) ,Leixlip(Confey) ,,,,
+Maynooth - Dublin,Leixlip(Confey) ,53.374065,-6.485464,,Leixlip(Confey) ,Clonsilla ,,,,
+Maynooth - Dublin,Clonsilla ,53.383004,-6.423078,,Clonsilla ,Coolmine ,,,,
+Maynooth - Dublin,Coolmine ,53.377506,-6.391524,,Coolmine ,Castleknock ,,,,
+Maynooth - Dublin,Castleknock ,53.381576,-6.371492,,Castleknock ,Navan Road Parkway ,,,,
+Maynooth - Dublin,Navan Road Parkway ,53.377708,-6.345914,,Navan Road Parkway ,Ashtown ,,,,
+Maynooth - Dublin,Ashtown ,53.375258,-6.332386,,Ashtown ,Pelletstown ,,,,
+Maynooth - Dublin,Pelletstown ,53.375249,-6.313876,,Pelletstown ,Broombridge ,,,,
+Maynooth - Dublin,Broombridge ,53.372506,-6.29869,,Broombridge ,Drumcondra ,,,,
+Maynooth - Dublin,Drumcondra ,53.363012,-6.258578,,Drumcondra ,Dublin Connolly ,,,,
+Maynooth - Dublin,Dublin Connolly ,53.352586,-6.247731,,,,,,,
+,,,,,,,,,,
+Clonsilla - M3 Parkway ,Clonsilla ,53.383004,-6.423078,,Clonsilla ,Hansfield ,,,,
+Clonsilla - M3 Parkway ,Hansfield ,53.386938,-6.441785,,Hansfield ,Dunboyne ,,,,
+Clonsilla - M3 Parkway ,Dunboyne ,53.416925,-6.464602,,Dunboyne ,M3 Parkway ,,,,
+Clonsilla - M3 Parkway ,M3 Parkway ,53.43514,-6.469195,,,,,,,
+,,,,,,,,,,
+M3 Parkway  - Clonsilla,M3 Parkway ,53.43514,-6.469195,,M3 Parkway ,Dunboyne ,,,,
+M3 Parkway  - Clonsilla,Dunboyne ,53.416925,-6.464602,,Dunboyne ,Hansfield ,,,,
+M3 Parkway  - Clonsilla,Hansfield ,53.386938,-6.441785,,Hansfield ,Clonsilla ,,,,
+M3 Parkway  - Clonsilla,Clonsilla ,53.383004,-6.423078,,,,,,,
+,,,,,,,,,,
+Cobh - Cork,Cobh ,51.848734,-8.299942,,Cobh ,Rushbrooke ,,,,
+Cobh - Cork,Rushbrooke ,51.849419,-8.32247,,Rushbrooke ,Carrigaloe ,,,,
+Cobh - Cork,Carrigaloe ,51.869062,-8.324376,,Carrigaloe ,Fota ,,,,
+Cobh - Cork,Fota ,51.895614,-8.318616,,Fota ,Glounthaune ,,,,
+Cobh - Cork,Glounthaune ,51.911289,-8.325244,,Glounthaune ,Little Island ,,,,
+Cobh - Cork,Little Island ,51.907701,-8.355584,,Little Island ,Cork (Kent) ,,,,
+Cobh - Cork,Cork (Kent) ,51.901363,-8.458343,,,,,,,
+,,,,,,,,,,
+Cork -  Cobh,Cork (Kent) ,51.901363,-8.458343,,Cork (Kent) ,Little Island ,,,,
+Cork -  Cobh,Little Island ,51.907701,-8.355584,,Little Island ,Glounthaune ,,,,
+Cork -  Cobh,Glounthaune ,51.911289,-8.325244,,Glounthaune ,Fota ,,,,
+Cork -  Cobh,Fota ,51.895614,-8.318616,,Fota ,Carrigaloe ,,,,
+Cork -  Cobh,Carrigaloe ,51.869062,-8.324376,,Carrigaloe ,Rushbrooke ,,,,
+Cork -  Cobh,Rushbrooke ,51.849419,-8.32247,,Rushbrooke ,Cobh ,,,,
+Cork -  Cobh,Cobh ,51.848734,-8.299942,,,,,,,
+,,,,,,,,,,
+Cork - Midleton,Cork (Kent) ,51.901363,-8.458343,,Cork (Kent) ,Little Island ,,,,
+Cork - Midleton,Little Island ,51.907701,-8.355584,,Little Island ,Glounthaune ,,,,
+Cork - Midleton,Glounthaune ,51.911289,-8.325244,,Glounthaune ,Carrigtwohill ,,,,
+Cork - Midleton,Carrigtwohill ,51.916258,-8.263214,,Carrigtwohill ,Midleton ,,,,
+Cork - Midleton,Midleton ,51.921027,-8.175908,,,,,,,
+,,,,,,,,,,
+Midleton - Cork,Midleton ,51.921027,-8.175908,,Midleton ,Carrigtwohill ,,,,
+Midleton - Cork,Carrigtwohill ,51.916258,-8.263214,,Carrigtwohill ,Glounthaune ,,,,
+Midleton - Cork,Glounthaune ,51.911289,-8.325244,,Glounthaune ,Little Island ,,,,
+Midleton - Cork,Little Island ,51.907701,-8.355584,,Little Island ,Cork (Kent) ,,,,
+Midleton - Cork,Cork (Kent) ,51.901363,-8.458343,,,,,,,
+,,,,,,,,,,
+Mallow - Cork,Mallow ,52.138563,-8.654962,,Mallow ,Cork (Kent) ,,,,
+Cork - Mallow,Cork (Kent) ,51.901363,-8.458343,,,,,,,
+,,,,,,,,,,
+Dundalk - Dublin,Dundalk (Clarke) ,54.001087,-6.412385,,Dundalk (Clarke) ,Drogheda (Macbride) ,,,,
+Dundalk - Dublin,Drogheda (Macbride) ,53.711842,-6.335709,,Drogheda (Macbride) ,Laytown ,,,,
+Dundalk - Dublin,Laytown ,53.679359,-6.242523,,Laytown ,Gormanston ,,,,
+Dundalk - Dublin,Gormanston ,53.638089,-6.217406,,Gormanston ,Balbriggan ,,,,
+Dundalk - Dublin,Balbriggan ,53.611807,-6.182205,,Balbriggan ,Skerries ,,,,
+Dundalk - Dublin,Skerries ,53.573977,-6.118848,,Skerries ,Rush and Lusk ,,,,
+Dundalk - Dublin,Rush and Lusk ,53.520782,-6.143644,,Rush and Lusk ,Donabate ,,,,
+Dundalk - Dublin,Donabate ,53.485508,-6.151344,,Donabate ,Malahide ,,,,
+Dundalk - Dublin,Malahide ,53.450686,-6.156293,,Malahide ,Portmarnock ,,,,
+Dundalk - Dublin,Portmarnock ,53.418177,-6.151142,,Portmarnock ,Clongriffin ,,,,
+Dundalk - Dublin,Clongriffin ,53.402514,-6.149029,,Clongriffin ,Howth Junction and Donaghmede ,,,,
+Dundalk - Dublin,Howth Junction and Donaghmede ,53.391496,-6.155434,,Howth Junction and Donaghmede ,Dublin Connolly ,,,,
+Dundalk - Dublin,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Tara Street ,,,,
+Dundalk - Dublin,Tara Street ,53.347264,-6.254359,,Tara Street ,Dublin Pearse ,,,,
+Dundalk - Dublin,Dublin Pearse ,53.343252,-6.248048,,,,,,,
+,,,,,,,,,,
+Dublin - Dundalk,Dublin Pearse ,53.343252,-6.248048,,Dublin Pearse ,Tara Street ,,,,
+Dublin - Dundalk,Tara Street ,53.347264,-6.254359,,Tara Street ,Dublin Connolly ,,,,
+Dublin - Dundalk,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Howth Junction and Donaghmede ,,,,
+Dublin - Dundalk,Howth Junction and Donaghmede ,53.391496,-6.155434,,Howth Junction and Donaghmede ,Clongriffin ,,,,
+Dublin - Dundalk,Clongriffin ,53.402514,-6.149029,,Clongriffin ,Portmarnock ,,,,
+Dublin - Dundalk,Portmarnock ,53.418177,-6.151142,,Portmarnock ,Malahide ,,,,
+Dublin - Dundalk,Malahide ,53.450686,-6.156293,,Malahide ,Donabate ,,,,
+Dublin - Dundalk,Donabate ,53.485508,-6.151344,,Donabate ,Rush and Lusk ,,,,
+Dublin - Dundalk,Rush and Lusk ,53.520782,-6.143644,,Rush and Lusk ,Skerries ,,,,
+Dublin - Dundalk,Skerries ,53.573977,-6.118848,,Skerries ,Balbriggan ,,,,
+Dublin - Dundalk,Balbriggan ,53.611807,-6.182205,,Balbriggan ,Gormanston ,,,,
+Dublin - Dundalk,Gormanston ,53.638089,-6.217406,,Gormanston ,Laytown ,,,,
+Dublin - Dundalk,Laytown ,53.679359,-6.242523,,Laytown ,Drogheda (Macbride) ,,,,
+Dublin - Dundalk,Drogheda (Macbride) ,53.711842,-6.335709,,Drogheda (Macbride) ,Dundalk (Clarke) ,,,,
+Dublin - Dundalk,Dundalk (Clarke) ,54.001087,-6.412385,,,,,,,
+,,,,,,,,,,
+Dublin - Drogheda,Dublin Connolly ,53.352586,-6.247731,,Dublin Connolly ,Malahide ,,,,
+Dublin - Drogheda,Malahide ,53.450686,-6.156293,,Malahide ,Donabate ,,,,
+Dublin - Drogheda,Donabate ,53.485508,-6.151344,,Donabate ,Rush and Lusk ,,,,
+Dublin - Drogheda,Rush and Lusk ,53.520782,-6.143644,,Rush and Lusk ,Skerries ,,,,
+Dublin - Drogheda,Skerries ,53.573977,-6.118848,,Skerries ,Balbriggan ,,,,
+Dublin - Drogheda,Balbriggan ,53.611807,-6.182205,,Balbriggan ,Gormanston ,,,,
+Dublin - Drogheda,Gormanston ,53.638089,-6.217406,,Gormanston ,Laytown ,,,,
+Dublin - Drogheda,Laytown ,53.679359,-6.242523,,Laytown ,Drogheda (Macbride) ,,,,
+Dublin - Drogheda,Drogheda (Macbride) ,53.711842,-6.335709,,,,,,,
